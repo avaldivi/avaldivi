@@ -13,7 +13,7 @@ Send people their props or thoughtful notes. This project uses Remix, Prisma and
 
 ### Astrology & Javascript Series ✨
 
-📹 I live-stream a series on Twitch/LinkedIn/X (fka Twitter) weekly on Tuesdays at 12PM EST/9AM PST based on understanding the foundational blocks of astrology to teach people how to read their natal chart by building a website in public called the **[Astrology & Javascript Series](https://astrology-javascript-series.vercel.app/)**.
+📹 I live-stream a series on Twitch/LinkedIn/X (fka Twitter) weekly on Wednesdays at 1pm EDT/10am PDT based on understanding the foundational blocks of astrology to teach people how to read their natal chart by building a website in public called the **[Astrology & Javascript Series](https://astrology-javascript-series.vercel.app/)**.
 
 **Platforms to follow:**
 - [twitch.tv/adriannavaldivia](twitch.tv/adriannavaldivia)
