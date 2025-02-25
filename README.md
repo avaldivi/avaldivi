@@ -1,6 +1,6 @@
 # Hi there 👋
 
-💼 I'm currently a Senior UI Engineer at Salesloft, a market leading sales engagement tool. I've worked on design-systems, Admin tooling for CRM Integrations between Salesforce, Hubspot, and Microsoft Dynamics, and now Analytics.
+💼 I'm currently a Senior Software Engineer at Intuit Mailchimp
 
 ⚛️ I primarily work in React and Typescript. I love to use styled-components for styling, react-query for state and cache management, react-final-form for handling state mangement with forms.
 
@@ -18,7 +18,6 @@ Send people their props or thoughtful notes. This project uses Remix, Prisma and
 **Platforms to follow:**
 - [twitch.tv/adriannavaldivia](twitch.tv/adriannavaldivia)
 - [linkedin.com/in/adriannavaldivia/](https://www.linkedin.com/in/adriannavaldivia/)
-- [@driannavaldivia](https://twitter.com/driannavaldivia)
 
 
 <!--
