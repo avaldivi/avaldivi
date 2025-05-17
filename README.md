@@ -6,7 +6,15 @@
 
 ## Current Projects
 
-💥 I'm currently learning & working on familiarizing myself with popular frameworks like Next.js and Remix Browser Framework.
+### Moon Phase Bluesky Bot
+
+Post daily on Bluesky the moon phase + tropical zodiac sign it is transiting.
+
+### Astrology & JavaScript Series
+
+Astrology Knowledge Base - Uses Remix v6 & Styled Components
+
+- [Visit Website](https://astrology-javascript-series.vercel.app/)
 
 ### Kudos 👍🏽
 Send people their props or thoughtful notes. This project uses Remix, Prisma and MongoDB to create and save users information including their kudos to other users. It also uses Tailwind for styling and AWS S3 to store photo uploads.
@@ -15,7 +23,6 @@ Send people their props or thoughtful notes. This project uses Remix, Prisma and
 **Platforms to follow:**
 - [twitch.tv/adriannavaldivia](twitch.tv/adriannavaldivia)
 - [linkedin.com/in/adriannavaldivia/](https://www.linkedin.com/in/adriannavaldivia/)
-
 
 <!--
 **avaldivi/avaldivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
